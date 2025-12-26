@@ -64,5 +64,4 @@ All screenshots and detailed implementation steps are documented in the attached
 
 ---
 
-## 💬 How I Explain This in Interviews
-> “I designed and implemented an enterprise-style Active Directory lab with Windows Server 2016, configured OU structures, department-based GPOs, and joined client machines to the domain. This lab taught me how to enforce permissions, manage policies, and troubleshoot domain-related issues.”
+
